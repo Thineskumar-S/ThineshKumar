@@ -31,6 +31,6 @@ I'm a Data Scientist...
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Thineskumar-S/ThineshKumar/edit/main/README.md/)
 
-[!linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)www.linkedin.com/in/
+[[!linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]www.linkedin.com/in/
 thinesh-kumar-/
 
