@@ -17,7 +17,7 @@ I'm a Data Scientist...
 
 ## 🛠 Skills
 
-| Tech Stack         | Experience                                                            |
+| Tech Stack  🧑‍💻    | Experience                                                            |
 | ----------------- | ------------------------------------------------------------------ |
 | Python | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
 | SQL | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
