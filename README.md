@@ -32,6 +32,7 @@ Explore my early projects:
 - [Project 2](https://github.com/YourUsername/Project2)
 
 ## 🔗 Connect With Me
-LinkedIn [LinkedIn](https://www.linkedin.com/in/thinesh-kumar-/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
+thinesh-kumar-/)
 
 Let's connect and explore the exciting possibilities at the intersection of data and technology! Feel free to reach out for discussions on machine learning, deep learning, statistics, and probability. I'm always eager to share insights and collaborate on challenging problems.
