@@ -31,6 +31,9 @@ Explore my early projects:
 - [Project 1](https://github.com/YourUsername/Project1)
 - [Project 2](https://github.com/YourUsername/Project2)
 
+## 🌐 Portfolio
+Discover more about my journey and explore additional projects on my [Data Science Portfolio](https://www.datascienceportfol.io/Thinesh_Kumar_).
+
 ## 🔗 Connect With Me
 ![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) www.linkedin.com/in/thinesh-kumar-/
 
